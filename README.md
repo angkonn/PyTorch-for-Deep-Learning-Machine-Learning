@@ -2,7 +2,6 @@
 
 A companion repository for the **freeCodeCamp** 25-hour course: *PyTorch for Deep Learning & Machine Learning*. Master PyTorch fundamentals and build production-ready models through hands-on projects.
 
-![PyTorch Logo](https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_Logo.png) <!-- Add actual image URL -->
 
 ## 🚀 Course Overview
 Learn industry-standard PyTorch practices through **5 comprehensive chapters**:
