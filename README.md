@@ -45,5 +45,14 @@ Learn industry-standard PyTorch practices through **5 comprehensive chapters**:
   - Custom image dataset creation & augmentation
   - Baseline modeling, overfitting/underfitting analysis
   - End-to-end prediction workflows
+    
+###  Chapter 5 - Going Modular
+
+### Chapter 6 - Transfer learning
+
+### Projects:
+   - Experiment Tracking
+   - Paper Replicating
+   - Model Deployment
 
 ---
